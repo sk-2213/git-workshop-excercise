@@ -11,3 +11,6 @@ This is our main project:
 x=10
 
 $x=10$
+
+### New section
+This section was created on .dev version of repository.
